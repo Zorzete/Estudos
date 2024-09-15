@@ -1,0 +1,12 @@
+GML - Gamemaker Language (Javascript / C#)
+
+F7 / F8 (Tamanho da fonte)
+
+Documentação F1
+
+
+//get_string() (Absoluto
+//get_string_async()
+//Ambos estão errados para fazer um jogo
+
+git ta foda
